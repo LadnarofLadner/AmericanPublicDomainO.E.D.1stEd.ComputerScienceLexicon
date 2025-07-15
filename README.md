@@ -39,9 +39,44 @@ Volume X, Part I: Ti-U (1926).
 Volume X, Part II: V-Z (1928).
 
 
-The Internet Archive, hosting those files, names them like this :
+The Internet Archive, hosting those files, names them like this (with the years printed, following the filename, in parentheses, thusly : (18xx) ):
 
 
+1_oed01arch_missing pages	 (1888)
+2_oed02arch	(1893)
+3_oxforddictionaryv3p1unse_a5h6	(1897)
+4_oxforddictionary0003unse	(1897)
+5_oed04arch	(1901)
+6_newenglishdict05murrmiss	(1901)
+7_oed6aarch	(1908)
+8_oed6barch	(1908)
+9_newenglishdic07murruoft	(1909)
+10_oed8aarch	(1914)
+11_newenglishdictio82murruoft	(1914)
+12_oed9aarch	(1919)
+13_oed9barch	(1919)
+14_newenglishdictio101murruoft	(1926)
+15_newenglishdictio102murruoft	(1928)
+
+
+
+You'll also note, that Onlinebooks, UPENN page mentions that : "This is a "meta-book", which stitches together separate files elsewhere on the Web as they appeared in a previously published book. It is subject to removal if someone produces an integrated edition. If that happens, The Online Books Page will point to the integrated version.".
+
+Perhaps this edition will be that "integrate edition" that they refer to? Perhaps, an O.E.D., downloadable, iopen source, public domain, searcheable by first three letters and returingnign the entire entry would be a valuable resource?
+
+The "text" versions are mere megabyte4s or 10s or maybe 100s of Megabytes. i don't recall, off the tiop of my head. But once I have split the pdf pages and places them in their own 15 directory folders, with predicatble names, refwerenceing what page order each individual one page pdf is, some sort of C or python or perhaps bash script can be applied to pick out talll the bold text. this seems tio me to be the easiest way to find the likely, possible, probabkle , le3xical items on each page.
+
+I envision a simple script that will append the number fo probable lexical items to the end of the filenamwe, and "sav as": this new file bname. _0 would be zero bold items. _7 wioukld be seven bold items and thus seven possible lexcical items.
+
+lexical items bridgibng several pages would have to be bhandled by a separate program, applied after the first one (beacuse my mind thinks small, and in little steps).
+
+It is possible ven, tyhat UI must translate these single pasge pfdf files into something more readeabl" as an image, in order to extract the bold sections.
+
+These bold sections shoukld then be cross reference to the "text-ified" pdf files, as available for download from the internet archive.
+
+I fdont know if it will include my earlier 48 Gb of donwnalads, wherein the "pdf+txt" file was availabel. Perhaps it will only use the UPENN pointed to 15 files, as their "txt" files ar emuch smaller and simpler, and track directly to our dataset, under strudy. i.e. the EXACT pdfs that I have split apart.
+
+Also, the UPENN opintwed to OED files on intenet archive have much meatadata files. I will download them into my data repsositoy, and possibly put them onto githubs serervers. Its possible I can supply all the meatdata needed for this probject on this gutgub repository MINUS the pdfs themsekves. Internet archive can continue to hiost those.
 
 
 
