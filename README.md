@@ -17,7 +17,14 @@ So, I then asked Google-A.I., again, if any O.E.D. was in the public domain. Goo
 
 And so, my next question to Google-A.I. was "Where can I get pdf copies of the 1st Ed. O.E.D., the one that is in the public domain?". Google responded with a fine link to a UPENN website, which, incidentally, just linked to the 15 particular files (10 volumes, I-X) on the internet archive. These volunmes were, luckily, more compact, coming in at about 4 GB. Here is the link, as well as two others that might prove useful to us, in this project ( (1) https://onlinebooks.library.upenn.edu/webbin/metabook?id=newenglishdictionary (2) https://onlinebooks.library.upenn.edu/search.html (3) https://onlinebooks.library.upenn.edu/webbin/book/search?author=&amode=words&title=Oxford+English+Dictionary&tmode=words&c=x ).
 
-It is also worth noting here, that, if one needs metadata files associated with these pdfs, the internet archive offers about 127 didffferent types, in the klinks that the UPENN "Online Books" website poibnts to. (The ealrier, alrger files I had downloaded, at 42 GB, I had actually taken 30 fikles, two of each, labelled "pdf" and "pdf+txt"). But the item linked to by UPENN did not have an entry for "pdf+txt". The 15 links tended to have about 17 didfferent options fopr different kinds of metadfata.
+It is also worth noting here, that, if one needs metadata files associated with these pdfs, the internet archive offers about 17 different types, for each of the 15 links that the UPENN "Online Books" website points to. (The earlier, larger files I had downloaded, at 42 GB, I had actually taken 30 files, two of each, labelled "pdf" and "pdf+txt"). But the archive.org items linked to by the UPENN library did not have an entry for "pdf+txt". The 15 links tended to have about 17 different options for different kinds of metadata; pdf, txt (html?/txt?), JSON, chOCR, hOCR, OCR, epub, daisy, abby-ZIP, J2-ZIP, JPEG-ZIP, JP2-ZIP, torrent, and others). It is my intention to provide a mirror of that pdf data, here, alongside 15 file filders containing the 15,000 pages that I have spearated with the poppler utility pdfseparate. The file naminmg should be automatic and standard and self-explanatory. Each of the 15 file folders will contain between approx. 500 and 2000 pages, depending upon the original file.
+
+UPENN's "Online Books" lists the file names and dates as follows: 
+
+
+The Internet Archive, hosting those files, names them like this :
+
+
 
 
 
