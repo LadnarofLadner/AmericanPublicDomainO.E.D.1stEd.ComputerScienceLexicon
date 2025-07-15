@@ -5,7 +5,7 @@ GOAL : Production of an Open-Source, Public Domain, 1st Edition Oxford English D
 
 (DISCLAIMER: I clicked GNU 3.0 GPL, and almost chose MIT license for this project, but after reading a bit more about the differences, I am leaning towards a re-launch of this project under "The Unlicense". In short, Copyleft principles should abound for this project, as the English language clearly belongs to all of us. I apologize for my initial neglect of--and reflexive and impetuous disregard for-- the legal particulars.)
 
-Authored by, Randall Meyer, Evolution Biologist "Extraordinaire", Hilo, Hawaii; July 15, 2025 (start date):
+Authored by, Randall Meyer, Evolution Biologist (and Memeticist) "Extraordinaire", Hilo, Hawaii; July 15, 2025 (start date):
 
 OK, just last week, or in the previous week, or two (or five?), I asked Google-A.I. if there was a legitimate place to get a scanned copy of the Oxford English Dictionary. Not that I am squeamish about illegitimate places to acquire scanned texts (as that seems to be the primary mode for the communication of intelligent ideas, these days! Illegitimately!!), but, I figured if I was to make it into a lexicon, similar to the CMU dictionary I already knew of, I would need something that was relatively permissive, especially if I wanted it to be open-source, to be shared, in the best of Linux, UNIX (Eunuchs!), FSF, and FOSS ethical traditions.
 
