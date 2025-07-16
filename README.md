@@ -17,10 +17,11 @@ So, I then asked Google-A.I., again, if any O.E.D. was in the public domain. Goo
 
 And so, my next question to Google-A.I. was "Where can I get pdf copies of the 1st Ed. O.E.D., the one that is in the public domain?". Google responded with a fine link to a UPENN website, which, incidentally, just linked to the 15 particular files (10 volumes, I-X) on the internet archive. These volunmes were, luckily, more compact, coming in at about 4 GB. Here is the link, as well as two others that might prove useful to us, in this project ( (1) https://onlinebooks.library.upenn.edu/webbin/metabook?id=newenglishdictionary (2) https://onlinebooks.library.upenn.edu/search.html (3) https://onlinebooks.library.upenn.edu/webbin/book/search?author=&amode=words&title=Oxford+English+Dictionary&tmode=words&c=x ).
 
-It is also worth noting here, that, if one needs metadata files associated with these pdfs, the internet archive offers about 17 different types, for each of the 15 links that the UPENN "Online Books" website points to. (The earlier, larger files I had downloaded, at 42 GB, I had actually taken 30 files, two of each, one labelled "pdf" and one labelled "pdf+txt"). But the archive.org items linked to by the UPENN library did not have an entry for "pdf+txt". Those 15 links tended to have about 17 different options for different kinds of metadata; namely, .pdf, .txt (html?/txt?), JSON, chOCR, hOCR, OCR, epub, daisy, abby-ZIP, J2-ZIP, JPEG-ZIP, JP2-ZIP, torrent, and others. It is my intention to provide a mirror of that pdf data, here, alongside 15 file folders containing the 15,000 pages that I have separated with the "poppler" utility "pdfseparate" (see Appendix I. for "poppler" license info). The file naminmg should be automatic and standard and self-explanatory. Each of the 15 file folders will contain between approx. 500 and 2000 pages, depending upon the original file. (See Appendix II, below: for my evolving notion of what this project can be. I see it might not be possible to host the data here, and perhaps I must cobble together only the code which will act upon the dataset and invite users and modifiers of my code to download the datasets, i.e. the pdf of the dictionary, on their own.)
+It is also worth noting here, that, if one needs metadata files associated with these pdfs, the internet archive offers about 17 different types, for each of the 15 links that the UPENN "Online Books" website points to. (The earlier, larger files I had downloaded, at 42 GB, I had actually taken 30 files, two of each, one labelled "pdf" and one labelled "pdf+txt"). But the archive.org items linked to by the UPENN library did not have an entry for "pdf+txt". Those 15 links tended to have about 17 different options for different kinds of metadata; namely, .pdf, .txt (html?/txt?), JSON, chOCR, hOCR, OCR, epub, daisy, abby-ZIP, J2-ZIP, JPEG-ZIP, JP2-ZIP, torrent, and others. It is my intention to provide a mirror of that pdf data, here, alongside 15 file folders containing the 15,000 pages that I have separated with the "poppler" utility "pdfseparate" (see Appendix I. for "poppler" license info). The file naming should be automatic and standard and self-explanatory. Each of the 15 file folders will contain between approx. 500 and 2,000 pages, depending upon size of the original file; the size of the original book. (See Appendix II, below: for my evolving notion of what this project can be. I see it might not be possible to host the pdf dictionary data here, and perhaps I must cobble together only the code which will act upon the dataset and, then, I may invite users and modifiers of my code to download the datasets, i.e. the pdf of the dictionary, on their own.)
 
-UPENN's "Online Books" lists the file names and dates as follows: 
+UPENN's "Online Books" lists the entries for the files and the dates of the book's original printing, as follows: 
 
+"
 Volume I: A-B (ca. 1888). Some initial pages, including the front matter and part of the preface, are missing from this scan.
 Google Books also has the first part of volume 1 (up to "Axiform") in the 1888 edition. It includes all front matter and the full preface, but might not be accessible outside the United States.
 Volume II: C (1893).
@@ -37,11 +38,12 @@ Volume IX, Part I: Si-St (1919).
 Volume IX, Part II: Su-Sz and T-Th (1919).
 Volume X, Part I: Ti-U (1926).
 Volume X, Part II: V-Z (1928).
+"
 
 
-The Internet Archive, hosting those files, names them like this (with the years printed, following the filename, in parentheses, thusly : (18xx) ):
+The Internet Archive, hosting those files, names thefiles like this (I have added the year printed, following the filename, in parentheses, thusly : (18xx) ):
 
-
+"
 1_oed01arch_missing pages	 (1888)
 2_oed02arch	(1893)
 3_oxforddictionaryv3p1unse_a5h6	(1897)
@@ -57,7 +59,7 @@ The Internet Archive, hosting those files, names them like this (with the years 
 13_oed9barch	(1919)
 14_newenglishdictio101murruoft	(1926)
 15_newenglishdictio102murruoft	(1928)
-
+"
 
 
 You'll also note, that Onlinebooks, UPENN page mentions that : "This is a "meta-book", which stitches together separate files elsewhere on the Web as they appeared in a previously published book. It is subject to removal if someone produces an integrated edition. If that happens, The Online Books Page will point to the integrated version.".
