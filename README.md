@@ -62,11 +62,11 @@ The Internet Archive, hosting those files, names thefiles like this (I have adde
 "
 
 
-You'll also note, that Onlinebooks, UPENN page mentions that : "This is a "meta-book", which stitches together separate files elsewhere on the Web as they appeared in a previously published book. It is subject to removal if someone produces an integrated edition. If that happens, The Online Books Page will point to the integrated version.".
+You'll also note, that onlinebooks, the UPENN page, mentions that : "This is a "meta-book", which stitches together separate files elsewhere on the Web as they appeared in a previously published book. It is subject to removal if someone produces an integrated edition. If that happens, The Online Books Page will point to the integrated version.".
 
-Perhaps this edition will be that "integrate edition" that they refer to? Perhaps, an O.E.D., downloadable, iopen source, public domain, searcheable by first three letters and returingnign the entire entry would be a valuable resource?
+Perhaps this repsotory can become the "edition" that will be that "integrated edition" that they refer to? Perhaps, an O.E.D., downloadable, open source, public domain, searcheable by first three letters (or more) and returiing the entire entry upon such query, would be a valuable resource? Perhaps it woulod be valubale to end-users, as an excellent and acedmically authoritative free dictionary, but also as a lexical tool for A.I. researchers, and speech sysnthesis researchers?
 
-The "text" versions are mere megabyte4s or 10s or maybe 100s of Megabytes. i don't recall, off the tiop of my head. But once I have split the pdf pages and places them in their own 15 directory folders, with predicatble names, refwerenceing what page order each individual one page pdf is, some sort of C or python or perhaps bash script can be applied to pick out talll the bold text. this seems tio me to be the easiest way to find the likely, possible, probabkle , le3xical items on each page.
+The "text" versions are mere megabytes or 10s or maybe 100s of Megabytes. I don't recall, off the top of my head. But once I have split the pdf pages and placed them in their own, separate, 15 directory folders, with predictable names, referenceing what page order each individual one-page pdf is, some sort of C or python or perhaps bash script can be applied to pick out all the bold text. This seems to me to be the easiest way to find the likely, possible, probable, lexical items on each page.
 
 I envision a simple script that will append the number fo probable lexical items to the end of the filenamwe, and "sav as": this new file bname. _0 would be zero bold items. _7 wioukld be seven bold items and thus seven possible lexcical items.
 
