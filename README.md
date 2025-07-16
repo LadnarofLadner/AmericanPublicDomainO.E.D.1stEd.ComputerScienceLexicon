@@ -68,17 +68,19 @@ Perhaps this repsotory can become the "edition" that will be that "integrated ed
 
 The "text" versions are mere megabytes or 10s or maybe 100s of Megabytes. I don't recall, off the top of my head. But once I have split the pdf pages and placed them in their own, separate, 15 directory folders, with predictable names, referenceing what page order each individual one-page pdf is, some sort of C or python or perhaps bash script can be applied to pick out all the bold text. This seems to me to be the easiest way to find the likely, possible, probable, lexical items on each page.
 
-I envision a simple script that will append the number fo probable lexical items to the end of the filenamwe, and "sav as": this new file bname. _0 would be zero bold items. _7 wioukld be seven bold items and thus seven possible lexcical items.
+I envision a simple script that will append the number fo probable lexical items to the end of the filenamwe, and then "save as", this new file name. _0 would be zero bold items. _7 would be seven bold items, and thus, seven possible lexcical items.
 
-lexical items bridgibng several pages would have to be bhandled by a separate program, applied after the first one (beacuse my mind thinks small, and in little steps).
+Lexical items bridging several pages would have to be handled by a separate program, applied after the first one (beacuse my mind thinks small, and in little, incremental steps).
 
-It is possible ven, tyhat UI must translate these single pasge pfdf files into something more readeabl" as an image, in order to extract the bold sections.
+It is possible even, that I must first convert these single page .pfd files into something more "readable", as an image, in order to extract, or count, the bold sections.
 
-These bold sections shoukld then be cross reference to the "text-ified" pdf files, as available for download from the internet archive.
+These bold sections should then be cross-referenced to the "text-ified" pdf files, as available for download from the internet archive.
 
-I fdont know if it will include my earlier 48 Gb of donwnalads, wherein the "pdf+txt" file was availabel. Perhaps it will only use the UPENN pointed to 15 files, as their "txt" files ar emuch smaller and simpler, and track directly to our dataset, under strudy. i.e. the EXACT pdfs that I have split apart.
+I don't know if this "cross-referencing" will include my earlier 48 GB of downloads, wherein the "pdf+txt" file was available. Perhaps it will only use the UPENN pointed-to 15 files, as their ".txt" files are much smaller and simpler, and track directly to our dataset, the one under study. i.e. the EXACT pdfs that I have split apart and paginated.
 
-Also, the UPENN opintwed to OED files on intenet archive have much meatadata files. I will download them into my data repsositoy, and possibly put them onto githubs serervers. Its possible I can supply all the meatdata needed for this probject on this gutgub repository MINUS the pdfs themsekves. Internet archive can continue to hiost those.
+Also, the UPENN-pointed-to OED files on intenet archive have many metadata files. I will download them into my own personal data repsository, and possibly put them onto githubs servers. Its possible I can supply all the meatdata needed for this project on this gutgub repository MINUS the pdfs themselves. Internet archive can continue to hiost those.
+
+Public computer... my time has run out today ... pre4ss sacve ... ttyl !!!!
 
 
 
