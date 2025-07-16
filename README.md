@@ -80,7 +80,9 @@ I don't know if this "cross-referencing" will include my earlier 48 GB of downlo
 
 Also, the UPENN-pointed-to OED files on intenet archive have many metadata files. I will download them into my own personal data repsository, and possibly put them onto githubs servers. Its possible I can supply all the meatdata needed for this project on this gutgub repository MINUS the pdfs themselves. Internet archive can continue to hiost those.
 
-Public computer... my time has run out today ... pre4ss sacve ... ttyl !!!!
+Public computer... my time has run out today ... press save ... ttyl !!!!
+
+Signed, Randall Meyer, 2:11 PM ; July 15, 2025. A day after my 45th birthday !
 
 
 
